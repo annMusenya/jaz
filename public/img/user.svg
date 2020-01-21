@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.399992in" height="0.399992in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 399.99 399.99"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil0 {fill:#4D4D4D}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M-0 0l400 0 0 400 -400 0 0 -400z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="_2325483407776">
+     <circle class="fil0" cx="200" cy="200" r="200"/>
+     <path class="fil1" d="M223.28 236.21c-4.65,-0.73 -4.75,-13.33 -4.75,-13.33 0,0 13.65,-13.33 16.63,-31.26 8,0 12.94,-19.06 4.94,-25.76 0.34,-7.06 10.29,-55.41 -40.1,-55.41 -50.39,0 -40.44,48.35 -40.1,55.41 -8,6.7 -3.06,25.76 4.94,25.76 2.98,17.93 16.63,31.26 16.63,31.26 0,0 -0.11,12.6 -4.75,13.33 -14.96,2.35 -70.84,26.66 -70.84,53.32l94.13 0 94.13 0c0,-26.66 -55.88,-50.97 -70.84,-53.32z"/>
+    </g>
+   </g>
+  </g>
+  <polygon class="fil2" points="-0,0 399.99,0 399.99,400 -0,400 "/>
+ </g>
+</svg>
